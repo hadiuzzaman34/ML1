@@ -1,0 +1,10 @@
+1. Destination Folder
+2. Type "cmd"
+3. Type "code ."
+4. Go to "view"> "command plattle"> Type "Jupter" > select "create new jupyter"
+5. Save the jupyter file in the destination folder
+
+
+#
+jupyter nbconvert --to markdown ML1.ipynb --output README.md
+
